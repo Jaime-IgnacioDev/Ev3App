@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660967080581",
+    "firebase_url": "https://ev3app-40098-default-rtdb.firebaseio.com",
+    "project_id": "ev3app-40098",
+    "storage_bucket": "ev3app-40098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660967080581:android:eb4d9f9cbfe0b5d3721fec",
+        "android_client_info": {
+          "package_name": "com.example.ev3_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660967080581-u80f7dc0vl8frek4u5evqq72odtcdi7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNa3R8Hqi4nb0wtoKJXOcESz_XuDh49U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660967080581-u80f7dc0vl8frek4u5evqq72odtcdi7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
